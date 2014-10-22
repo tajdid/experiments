@@ -1,0 +1,275 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["Login_Screen_iOS/layers.json.js"] = [
+  {
+    "maskFrame" : null,
+    "id" : "C924AD6B-D7E5-45D3-9E3D-1C01902BE3E7",
+    "visible" : true,
+    "children" : [
+      {
+        "maskFrame" : null,
+        "id" : "5FB53077-1C55-4FA6-BDB1-AD42DF2908B2",
+        "visible" : true,
+        "children" : [
+          {
+            "maskFrame" : null,
+            "id" : "79F4ED52-98C4-413E-BA99-70A484F57B5E",
+            "visible" : true,
+            "children" : [
+
+            ],
+            "image" : {
+              "path" : "images\/Signal-79F4ED52-98C4-413E-BA99-70A484F57B5E.png",
+              "frame" : {
+                "y" : 15,
+                "x" : 14,
+                "width" : 67,
+                "height" : 11
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 15,
+              "x" : 14,
+              "width" : 67,
+              "height" : 11
+            },
+            "name" : "Signal"
+          },
+          {
+            "maskFrame" : null,
+            "id" : "A051A384-0DFD-4069-99A1-38645C7B78CD",
+            "visible" : true,
+            "children" : [
+              {
+                "maskFrame" : null,
+                "id" : "73C027D1-F82C-45E4-A76C-B66D20AC0CB9",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/Battery_Icon-73C027D1-F82C-45E4-A76C-B66D20AC0CB9.png",
+                  "frame" : {
+                    "y" : 11,
+                    "x" : 581,
+                    "width" : 49,
+                    "height" : 19
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 11,
+                  "x" : 581,
+                  "width" : 49,
+                  "height" : 19
+                },
+                "name" : "Battery_Icon"
+              }
+            ],
+            "image" : {
+              "path" : "images\/Charge-A051A384-0DFD-4069-99A1-38645C7B78CD.png",
+              "frame" : {
+                "y" : 11,
+                "x" : 525,
+                "width" : 105,
+                "height" : 19
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 11,
+              "x" : 525,
+              "width" : 105,
+              "height" : 19
+            },
+            "name" : "Charge"
+          }
+        ],
+        "image" : {
+          "path" : "images\/status_bar-5FB53077-1C55-4FA6-BDB1-AD42DF2908B2.png",
+          "frame" : {
+            "y" : 7,
+            "x" : 14,
+            "width" : 616,
+            "height" : 27
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 7,
+          "x" : 14,
+          "width" : 616,
+          "height" : 27
+        },
+        "name" : "status_bar"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "AEAA2B07-E8E3-44BD-8312-AB562ECAF3F8",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/no_account-AEAA2B07-E8E3-44BD-8312-AB562ECAF3F8.png",
+          "frame" : {
+            "y" : 1007,
+            "x" : 130,
+            "width" : 381,
+            "height" : 22
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 1007,
+          "x" : 130,
+          "width" : 381,
+          "height" : 22
+        },
+        "name" : "no_account"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "A236616E-C1DE-41AE-8911-3E08F94105D6",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/login_btn-A236616E-C1DE-41AE-8911-3E08F94105D6.png",
+          "frame" : {
+            "y" : 804,
+            "x" : 86,
+            "width" : 470,
+            "height" : 78
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 804,
+          "x" : 86,
+          "width" : 470,
+          "height" : 78
+        },
+        "name" : "login_btn"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "79C82D6F-753C-4377-92EC-F7EBD0E54FF8",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/password_input-79C82D6F-753C-4377-92EC-F7EBD0E54FF8.png",
+          "frame" : {
+            "y" : 672,
+            "x" : 86,
+            "width" : 470,
+            "height" : 78
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 672,
+          "x" : 86,
+          "width" : 470,
+          "height" : 78
+        },
+        "name" : "password_input"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "80CD0768-7930-47CD-BA0D-D99B9064D005",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/username_input-80CD0768-7930-47CD-BA0D-D99B9064D005.png",
+          "frame" : {
+            "y" : 540,
+            "x" : 86,
+            "width" : 470,
+            "height" : 78
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 540,
+          "x" : 86,
+          "width" : 470,
+          "height" : 78
+        },
+        "name" : "username_input"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "78514F16-2849-4707-8047-848C8926D545",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/logo-78514F16-2849-4707-8047-848C8926D545.png",
+          "frame" : {
+            "y" : 376,
+            "x" : 157,
+            "width" : 329,
+            "height" : 46
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 376,
+          "x" : 157,
+          "width" : 329,
+          "height" : 46
+        },
+        "name" : "logo"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "03E95666-4407-46AF-8FC5-6F20F3BD4733",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/background-03E95666-4407-46AF-8FC5-6F20F3BD4733.png",
+          "frame" : {
+            "y" : 0,
+            "x" : 0,
+            "width" : 640,
+            "height" : 1136
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 0,
+          "x" : 0,
+          "width" : 640,
+          "height" : 1136
+        },
+        "name" : "background"
+      }
+    ],
+    "image" : {
+      "path" : "images\/Login_Screen-C924AD6B-D7E5-45D3-9E3D-1C01902BE3E7.png",
+      "frame" : {
+        "y" : 0,
+        "x" : 0,
+        "width" : 640,
+        "height" : 1136
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 0,
+      "x" : 0,
+      "width" : 640,
+      "height" : 1136
+    },
+    "name" : "Login_Screen"
+  }
+]
